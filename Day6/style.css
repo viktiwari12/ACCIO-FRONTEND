@@ -1,0 +1,64 @@
+h1{
+    color: red;
+}
+
+#p1{
+    border-style: dotted;
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-bottom-width: 5px;
+    border-left-width: 4px;
+    border-color: black;
+    border-radius: 15px;
+    
+
+
+    /* This is a Comment in CSS  */ 
+    border: 1px solid black;
+
+}
+#p2{
+    background-color: rgb(185, 174, 21);
+}
+#p3{
+    background-color: rgb(135, 135, 103);
+}
+#p3{
+    height: 200px;
+    background-color: rgb(207, 207, 55);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0cq-NaDa3X0aTl8BoszgpRnxOgfJih_ZcgZtA-w&s");
+    background-repeat: no-repeat;
+}
+.abovediv{
+    background-color: rgb(154, 154, 186);
+}
+.belowdiv{
+    background-color: brown;
+}
+.belowdiv{
+    background-color: red;
+}
+*{
+    background-color: cornflowerblue;
+   
+}
+
+#d10{
+    margin: 10px;
+    border: 1px solid rebeccapurple;
+    
+}
+#d11{
+    height: 100px;
+    border: 1px solid red;
+    
+    margin: 10px;
+    padding: 20px;
+    
+}
+#d12{
+    border: 1px solid rebeccapurple;
+    margin: 20px;
+    height: 200px;
+    width: 300px;
+}

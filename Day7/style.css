@@ -1,0 +1,67 @@
+/* Body Selectors */ 
+
+    
+
+/* Id- Selectors */
+#d1{
+    background-color: aqua;
+    border: 5px dashed black;
+   
+ 
+    height: 500px;
+    width: 500px;
+}
+h2{
+    color: brown; /* the color property applies only to the text */
+
+    text-align: center;
+}
+p{
+    text-align: justify;
+
+    direction: rtl;
+    letter-spacing: 2px;
+    line-height: 1cm;
+    word-spacing: 5px;
+    white-space: nowrap;
+
+}
+/* Text Decoration */
+h2{
+    text-decoration:overline underline;
+    text-decoration-style:
+    
+}
+
+/* Text Transformation */ 
+h2{
+    text-transform: capitalize;
+    letter-spacing: 5px;
+}
+#d3{
+    width:  100px;
+    height: 100px;
+    padding: 10%;
+}
+
+/* All about styling the links */ 
+
+a:link{
+    color: chocolate;
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10%
+}
+
+a:hover{
+    color:red;
+    text-shadow: 10px 10px rebeccapurple;
+}
+
+a:visited{
+    color:  black;
+}
+a:active{
+
+}
+

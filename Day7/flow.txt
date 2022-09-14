@@ -1,0 +1,10 @@
+1. Box Model
+    Border
+    Margin 
+    Padding 
+    Outline
+
+2. Text 
+    Allingment 
+    Decoration 
+    
