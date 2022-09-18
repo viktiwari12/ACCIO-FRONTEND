@@ -1,0 +1,26 @@
+.main{
+    width: 900px;
+    height: 900px;
+    background: lightcyan;
+    border: 1px solid rebeccapurple;
+    margin: 2px;
+    padding: 3px;
+    display:flex;
+    /* flex-direction: column; */
+    flex-direction: column-reverse;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-grow: 2;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    border: 1px solid yellowgreen;
+    margin: 2px;
+    flex-grow: 3;
+}
+.b1{
+    flex-grow: 3;
+}
