@@ -1,0 +1,14 @@
+1. Output statement 
+
+2. Variables  
+    Naming them 
+3. Types of variables 
+    -Integr 
+    -Charecters 
+    -strings
+    -boolean
+
+4. Arrays 
+
+5. Opetators 
+

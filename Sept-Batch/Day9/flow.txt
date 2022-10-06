@@ -1,0 +1,30 @@
+Box-Sizing 
+    Border- Box 
+    Content-Box
+
+Justify Content
+Align- Item 
+
+Background 
+
+Psition
+    absolute 
+    relative 
+    sticky 
+
+Border - Radius 
+(https://9elements.github.io/fancy-border-radius/#49.20.79.32--.)  for just getting some random border 
+
+
+before 
+after 
+
+Nth child 
+
+Transform -> 
+    Translate
+
+
+Animation 
+    Transform
+    Rotate
