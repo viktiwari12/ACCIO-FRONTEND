@@ -1,3 +1,0 @@
-Display 
-    flex
-    flex-Direction 
