@@ -1,0 +1,15 @@
+Agenda for the Day 
+
+1) Table 
+    table 
+    tr
+    td 
+    th 
+    border 
+    rowsapm 
+    colspam
+2) Ancher tag  -> abbriation 
+3) Images 
+4) Audio Files 
+5) Video Files 
+    iframes
