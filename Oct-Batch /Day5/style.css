@@ -1,0 +1,61 @@
+*{ 
+    /* This is Global Selector  */
+    background-color: darkgoldenrod;
+    /* background-image: url(https://media-exp1.licdn.com/dms/image/C4D03AQEyrJ-gIhNW9A/profile-displayphoto-shrink_800_800/0/1653591431351?e=1671062400&v=beta&t=IktVeqqNCV47Y9XvBC0JpWQoTeRSjxf6qQTmg05zoWs);
+    background-repeat:repeat-y;
+    background-position: right top;
+    background-position: bottom; */
+
+    margin: 50px;
+    padding: 10px;
+}
+
+h1{
+
+    /*  The below are called properties */ 
+    color: rgb(114, 97, 92);
+    
+}
+
+/* h2{
+    color: pink;
+    background-color: aqua;
+} */
+
+p{
+    color: lightsalmon;
+    background-color: aquamarine;
+}
+
+div{
+    color: maroon;
+   
+}
+
+.c1{
+    border: 5px solid red;
+}
+
+#p1{
+    background-color: blue;
+}
+
+#pp1{
+    background-color: azure;
+    border: 5px dashed red;
+
+    border-bottom: none;
+
+    margin: 50px;
+    padding: 15px;
+    
+    
+}
+#pp2{
+    width: 900px;
+    height: 300px;
+    border: 5px solid white;
+}
+div > h1{
+    color: cornflowerblue;
+}

@@ -1,0 +1,13 @@
+Selectors
+    HTML elements can be seected by tag name
+    Global Selectors 
+    Id-Selectors
+    Class-Selectors'
+
+Combinators
+    Decendent Selectors
+    Child Selectors 
+
+Properties 
+    Colour 
+    Background

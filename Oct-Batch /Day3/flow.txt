@@ -9,6 +9,12 @@ Agenda for the Day
     rowsapm 
     colspam
 2) Ancher tag  -> abbriation 
+    linking different website 
+    linking different html page 
+    linking different section of the same page 
+    linking to the top 
+    opening link in complete new page 
+    opening link in the same page 
 3) Images 
 4) Audio Files 
 5) Video Files 

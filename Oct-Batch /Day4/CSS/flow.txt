@@ -1,0 +1,9 @@
+CSS
+    Intro 
+    What 
+    how? 
+
+There are 3 ways 
+    Inline 
+    Internal 
+    External 
