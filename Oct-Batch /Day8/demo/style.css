@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Everything insode the box will fit to adjust itself*/
+}
+body{
+    display: flex;
+    justify-content: center; /* put the box in the centre as per X-axis */
+    align-items: center; /* puts the box in the centre as [er y-axis */
+    min-height: 100vh;
+    background: #edeeed;
+}
+.drops{
+    position: relative; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.drop{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background: transparent; /* first set it to black then change it */
+    border-radius: 36% 64% 68% 32% / 36% 38% 62% 64%; /* learning-> in prder to make a complete circle just add border radius 50% to any div */
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .5), 15px 25px 10px rgba(0, 0, 0, .1), 15px 20px 20px rgba(0, 0, 0, .05);
+
+}
+.drop::before{
+    content: '';
+    position: absolute;
+    top: 25px;
+    left: 35px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    border-radius: 36% 64% 68% 32% / 36% 38% 62% 64%;
+}
+.drop::after{
+    content: '';
+    position: absolute;
+    top: 25px;
+    left: 65px;
+    background: #fff;
+    width: 10px;
+    height: 10px;
+    border-radius: 36% 64% 68% 32% / 36% 38% 62% 64%;
+}
+.drop:nth-child(2){
+    transform: scale(0.5) translate(-200px,180px);
+    border-radius: 36% 64% 68% 32% / 36% 38% 62% 64%
+}
+.drop:nth-child(3){
+    transform: scale(0.5) translate(180px,180px);
+    border-radius: 36% 64% 68% 32% / 36% 38% 62% 64%
+}

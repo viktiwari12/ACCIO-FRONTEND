@@ -1,0 +1,16 @@
+h1{
+    color: rgb(199, 21, 50);
+    background-color: aqua;
+}
+@media (min-width: 800px)and (max-width: 1000px){
+   h1{
+    background-color: lightgreen;
+    text-align: center;
+   }
+}
+@media (min-width: 1001px)and (max-width: 1100px){
+    h1{
+     background-color: rgb(182, 29, 88);
+     text-align: center;
+    }
+ }
