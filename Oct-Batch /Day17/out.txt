@@ -1,0 +1,87 @@
+[ 10, 'Vikash', 'Archit', false, 45.5, 'c' ]
+[]
+undefined
+undefined
+undefined
+undefined
+undefined
+Lenght of the Array is 6
+First Element of the array is 10
+Second Element of the array is Vikash
+Third Element of the array is Archit
+Fourth Element of the array is false
+Fifth Element of the array is 45.5
+Sixth Element of the array is c
+[
+  'Vikash', 'Akash',
+  'Arti',   'Gurpurv',
+  'Kunal',  'Bhavna',
+  'Dev',    'Nikunj',
+  'Sahil'
+]
+[
+  'Akash',   'Arti',
+  'Bhavna',  'Dev',
+  'Gurpurv', 'Kunal',
+  'Nikunj',  'Sahil',
+  'Vikash'
+]
+[
+  'Vikash',  'Sahil',
+  'Nikunj',  'Kunal',
+  'Gurpurv', 'Dev',
+  'Bhavna',  'Arti',
+  'Akash'
+]
+[
+  'Vikash',
+  'Sahil',
+  'Nikunj',
+  'Kunal',
+  'Gurpurv',
+  'Dev',
+  'Bhavna',
+  'Arti',
+  'Akash',
+  'Last element Added'
+]
+[
+  'Vikash',  'Sahil',
+  'Nikunj',  'Kunal',
+  'Gurpurv', 'Dev',
+  'Bhavna',  'Arti',
+  'Akash'
+]
+[
+  'Frist Element Added ',
+  'Vikash',
+  'Sahil',
+  'Nikunj',
+  'Kunal',
+  'Gurpurv',
+  'Dev',
+  'Bhavna',
+  'Arti',
+  'Akash'
+]
+[
+  10,
+  'nadna',
+  1394,
+  true,
+  'Frist Element Added ',
+  'Vikash',
+  'Sahil',
+  'Nikunj',
+  'Kunal',
+  'Gurpurv',
+  'Dev',
+  'Bhavna',
+  'Arti',
+  'Akash'
+]
+true
+false
+2
+7
+[ 30, 40, 30 ]
