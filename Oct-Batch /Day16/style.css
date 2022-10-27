@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+.container{
+    display: flex;
+    width: 90vh;
+    border: 2px solid black;
+}
+.pannel{
+    border: 2px solid red;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 50px;
+    color: green;
+    cursor: pointer;
+    flex: 1;
+    margin: 10px;
+    position: relative;
+}
+.pannel h3{
+    font-size: 25px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity:0;
+    
+}
+#pannel-1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3_U2-vYifSYnGt483isoGPLvlEd0fI13Qp_kJsF_&s);
+}
+#pannel-2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3_U2-vYifSYnGt483isoGPLvlEd0fI13Qp_kJsF_&s);
+}
+#pannel-3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3_U2-vYifSYnGt483isoGPLvlEd0fI13Qp_kJsF_&s);
+}
+#pannel-4{
+    background-image: url(https://media.istockphoto.com/photos/very-closeup-view-of-amazing-domestic-pet-in-mirror-round-fashion-is-picture-id1281804798?b=1&k=20&m=1281804798&s=170667a&w=0&h=HIWbeaP_cQSngCz7l9t3xwyE2eyzVgIy3K6xIqPhJQA=);
+}
+#pannel-5{
+    background-image: url(https://i.pinimg.com/550x/85/d4/ae/85d4ae742c390a77c4f8ae318e52c99b.jpg);
+}
+.pannel.active{
+    flex: 5;
+}
+.pannel.active h3{
+    opacity: 1;
+}
+
+.d1{
+    background: linear-gradient(to bottom, red, yellow);
+    width: 500px;
+    height: 500px;
+    border: 2px solid red;
+}
